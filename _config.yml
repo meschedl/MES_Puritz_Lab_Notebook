@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Notebook for the Puritz Lab of Marine Evolutionary Ecology
+description:    "Maggie Schedl"
+url:            "https://meschedl.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Maggie Schedl
+  url:          #https://chester.how
+  email:        meschedl@uri.edu
 
 # Build settings
 markdown:       kramdown
