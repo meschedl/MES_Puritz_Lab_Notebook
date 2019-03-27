@@ -8,10 +8,10 @@ tags: [ oyster larvae, RNA, cDNA, sequencing ]
 
 **Quants of libraries were calculated from the TapeStation traces by correcting the peak to be between 250 and 600 base pairs and using that concentration (ng/µl)**
 
-There are 16 libraries made, and we are pooling into 8 based on index combinations. Index 1 and 2 are paired in individual samples to eliminate the possibility of index hopping. There are two samples per every paired index, each with a different adapter barcode, and we are pooling by the same index pairs.
-
+There are 16 libraries made, and we are pooling into 8 based on index combinations. Index 1 and 2 are paired in individual samples to eliminate the possibility of index hopping. There are two samples per every paired index, each with a different adapter barcode, and we are pooling by the same index pairs.  
+{:class="table table-bordered"}  
 |Sample| Adapter | Index 1 | Index 2 |
-|------|--------|-----|-----:|
+|:------:|:--------:|:-----:|:-----:|
 |B11T24J01|NCO|501|701|
 |B11T24J02|NCO|502|702|
 |B11T24J03|NCO|503|703|
@@ -28,12 +28,12 @@ There are 16 libraries made, and we are pooling into 8 based on index combinatio
 |B11T24J14|SAII|506|706|
 |B11T24J15|SAII|507|707|
 |B11T24J18|SAII|508|708|
-{:.mbtablestyle}
+
 
 Each pool should contain 200ng of library from each sample, and enough 10mM Tris-HCl to add up to 10µl in a screw cap 2mL tube. Tubes were vortexed, spun down, parafilmed on the lid, and shipped with dry ice.
 
 |Pool Name|Samples|200ng Vol|Total Pool Vol|Tris-HCl Vol to 10µl|Indexes|
-|----|-----|------|----|-------|-------|
+|:----:|:-----:|:------:|:----:|:-------:|:-------:|
 |CASEB1 pool1|B11T24J01|4.11µl|5.76µl|4.24µl|501 701|
 | |B11T24J07|1.65µl| | |501 701|
 |CASEB1 pool2|B11T24J02|2.11µl|3.83µl|6.17µl|502 702|
