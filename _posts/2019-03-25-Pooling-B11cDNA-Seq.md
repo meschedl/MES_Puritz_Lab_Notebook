@@ -9,7 +9,7 @@ tags: [ oyster larvae, RNA, cDNA, sequencing ]
 **Quants of libraries were calculated from the TapeStation traces by correcting the peak to be between 250 and 600 base pairs and using that concentration (ng/µl)**
 
 There are 16 libraries made, and we are pooling into 8 based on index combinations. Index 1 and 2 are paired in individual samples to eliminate the possibility of index hopping. There are two samples per every paired index, each with a different adapter barcode, and we are pooling by the same index pairs.  
-{:class="table table-bordered"}  
+
 |Sample| Adapter | Index 1 | Index 2 |
 |:------:|:--------:|:-----:|:-----:|
 |B11T24J01|NCO|501|701|
