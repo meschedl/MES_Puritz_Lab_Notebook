@@ -9,10 +9,10 @@ _All steps in are done with [Amy Zyck](https://github.com/amaeliazyck)_
 
 **First step: Aliquoit out 1ug of RNA each from 4 samples from each location and pool together in a locality pool of 4ug**
 
-Doing all locations from the samples sent from Australia as well as a pool for the live Mytilus we collected and extracted [here](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-12/Mytilus-Live-RNA-Extraction). We want to have a starting volume of 25ul for the [KAPA Stranded mRNA Seq Kit](https://www.kapabiosystems.com/product-applications/products/next-generation-sequencing-2/rna-library-preparation-2/kapa-stranded-mrna-seq-kits/#accordion-order), so almost all of the pools had to be vacufuged down to either 25ul or less, and then RNase-free water was added to 25ul. These were then re-frozen at -80 because we would not start the library prep until the next day.
+Doing all locations from the samples sent from Australia as well as a pool for the live Mytilus we collected and extracted [here](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-12/Mytilus-Live-RNA-Extraction). We want to have a starting volume of 25μl for the [KAPA Stranded mRNA Seq Kit](https://www.kapabiosystems.com/product-applications/products/next-generation-sequencing-2/rna-library-preparation-2/kapa-stranded-mrna-seq-kits/#accordion-order), so almost all of the pools had to be vacufuged down to either 25μl or less, and then RNase-free water was added to 25μl. These were then re-frozen at -80 because we would not start the library prep until the next day.
 
 
-| Locality Pool   | Sample | Volume (ul) RNA 1ug | Volume of Pool (ul) | Volume Post-Vacufuge (ul) | Volume (ul) Water to 25ul |
+| Locality Pool   | Sample | Volume (μl) RNA 1μg | Volume of Pool (μl) | Volume Post-Vacufuge (μl) | Volume (μl) Water to 25μl |
 |-----------------|--------|---------------------|---------------------|---------------------------|---------------------------|
 | Atlantic (AL)   | A4     | 7.25 | 38.47  | 25      | 0      |
 | -         | A5     | 6.33         | -           | -             | -      |
@@ -40,7 +40,7 @@ Doing all locations from the samples sent from Australia as well as a pool for t
 Because we will be using 4000ng of RNA for each library, we needed to make a adapter stock concentration of 1400nM [see kit protocol for details](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/company-protocols/KAPA-Stranded-mRNA-Seq-TDS-KR0960-v5-17.pdf).
 
 Our annealed adapters are at 40uM, and we want to make a working stock of 60ul, so the calculation is:  
-1,400/40,000 * 60 = 2.1ul of adapter stock and 57.9ul of water.  
+1,400/40,000 * 60 = 2.1μl of adapter stock and 57.9μl of water.  
 Created working stocks of SAII and NCO adapters.
 
 **Third step: Make the plan for adapters and indexes for each locality pool**
