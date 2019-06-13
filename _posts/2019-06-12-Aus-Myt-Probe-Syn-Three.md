@@ -45,7 +45,7 @@ Following half reactions from the [KAPA Biosystems Stranded mRNA-Seq Kit](https:
 22. Placed on shaker for 15 minutes
 23. Made fresh 80% EtOH
 24. Placed tubes on magnet plate
-25. Removed 67μl of supernatant from each tube
+25. Removed 45μl of supernatant from each tube
 26. Added 100μl 80% EtOH to each tube  
 27. Removed 100μl of supernatant from each tube
 28. Added 100μl 80% EtOH to each tube  
@@ -53,4 +53,4 @@ Following half reactions from the [KAPA Biosystems Stranded mRNA-Seq Kit](https:
 30. Resuspended beads in 11μl of 10mM Tris HCl pH 8
 31. Placed tubes on shaker for 5 minutes
 32. Placed tubes on magnet stand and removed 10μl of clear supernatant to new tubes
-33. Placed tubes in 4 degree overnight 
+33. Placed tubes in 4 degree overnight
