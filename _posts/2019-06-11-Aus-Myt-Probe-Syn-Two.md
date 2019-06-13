@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia Mytilus EecSeq Probe Sythesis Day 2
+title: Australia Mytilus EecSeq Probe Synthesis Day 2
 tags: [ EeqSeq, RNA, cDNA, Mytilus ]
 ---
 
@@ -62,4 +62,4 @@ Following half reactions from the [KAPA Biosystems Stranded mRNA-Seq Kit](https:
 42. Removed ALL EtOH from each tube, using a p20 to get extras and droplets of EtOH
 43. Waited ~30 seconds or less and resuspended the beads in 7.5μl of the A-tailing Safe Stopping Point Master Mix
 44. Spun tubes down to make sure all the beads were off the sides  
-45. Placed tubes in 4 degree overnight 
+45. Placed tubes in 4 degree overnight

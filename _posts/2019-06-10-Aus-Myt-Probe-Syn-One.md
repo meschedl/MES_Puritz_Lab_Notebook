@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia Mytilus EecSeq Probe Sythesis Day 1
+title: Australia Mytilus EecSeq Probe Synthesis Day 1
 tags: [ EeqSeq, RNA, cDNA, Mytilus ]
 ---
 
