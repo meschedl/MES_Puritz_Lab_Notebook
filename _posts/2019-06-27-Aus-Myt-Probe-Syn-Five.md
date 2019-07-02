@@ -6,7 +6,7 @@ tags: [ EeqSeq, RNA, cDNA, Mytilus ]
 
 ## DSN Normalization
 
-_Continuing with [Amy Zyck](https://github.com/amaeliazyck) and also [Jacob Green](https://github.com/madmolecularman)_
+_Continuing with [Amy Zyck](https://github.com/amaeliazyck)_
 
 We want to do 2 normalizations to maximize how many probes we make. Each normalization is for 500ng, and in a total volume of 13.5μl. We do not have libraries at a concentration high enough for that, so we want to pool a little over a 1μg of all the libraries, do a 1.8X bead cleanup on that, Qubit, then dilute to 13.5μl if it is not at that volume.
 
