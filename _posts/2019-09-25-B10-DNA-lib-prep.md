@@ -25,6 +25,7 @@ tags: [ EeqSeq, DNA, Crassostrea virginica ]
   - DNA ligase 5μl * 19.5 = 97.5μl
   - nuclease free water 2.5μl * 19.5 = 48.7μl
 - Added ligation master mix and appropriate planned adapters to each sample. Adapters were added last to minimize adapter-adapter ligation
+
 |Sample|LMM|Adapter|
 |---|---|---|
 |S1|22.5μl|2.5μl 1|
@@ -45,6 +46,7 @@ tags: [ EeqSeq, DNA, Crassostrea virginica ]
 |J12|22.5μl|2.5μl 4|
 |J13|22.5μl|2.5μl 5|
 |J17|22.5μl|2.5μl 6|
+
 - Pipetted all samples up and down with the multichannel and spun down
 - Incubated on the shaker at room temp for 1 hour
 
@@ -90,6 +92,7 @@ tags: [ EeqSeq, DNA, Crassostrea virginica ]
   - 1.25μl 512 primer * 3.2 = 4μl
   - 1.25μl 712 primer * 3.2 = 4μl
 - Prepared new PCR tubes for the amplification with the following:
+
 |Sample|volume adapter added DNA of sample|volume of Amp MM|
 |---|----|----|
 |S1|10μl|15μl Amp MM A|
@@ -110,6 +113,7 @@ tags: [ EeqSeq, DNA, Crassostrea virginica ]
 |J12|10μl|15μl Amp MM F|
 |J13|10μl|15μl Amp MM F|
 |J17|10μl|15μl Amp MM F|
+
 - Vortexed and spun down samples
 - Placed samples in the thermocycler Genomic PCR program
 
