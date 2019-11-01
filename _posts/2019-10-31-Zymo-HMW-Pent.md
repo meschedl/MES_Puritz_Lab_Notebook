@@ -57,6 +57,6 @@ PG2: 127ng/µl, 126ng/µl, averageL 126.5ng/µl
 **[Genomic DNA TapeStation](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/):**
 
 ![1]({{ site.baseurl}}/images/PG1.png)
-![2]({{ site.baseurl}}/images/PG2.png)
+![2]({{ site.baseurl}}/images/pg2.png)
 
 [full report](https://drive.google.com/open?id=1jnayNuCMkKhDe54QinA8zgJq_dhhz5c2)
