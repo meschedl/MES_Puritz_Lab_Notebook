@@ -4,7 +4,7 @@ title: Testing Zymo Quick-DNA HMW MagBead Kit on Pentagona Seastar Tissue
 tags: [ Pentagona, HMW DNA, extraction ]
 ---
 
-## Testing the [Zymo Quick-DNA HMW MagBead Kit](https://www.zymoresearch.com/pages/hmw-dna-purification) with one _Pentagona_ tissue sample in DNA/RNA shield
+## Testing the [Zymo Quick-DNA HMW MagBead Kit](https://www.zymoresearch.com/pages/hmw-dna-purification) with one _Cryptasterina Pentagona_ tissue sample in DNA/RNA shield
 
 ### Sample Prep
 
