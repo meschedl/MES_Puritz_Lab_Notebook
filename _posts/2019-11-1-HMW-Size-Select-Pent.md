@@ -4,7 +4,7 @@ title: Pentagona HMW Size Selection with BluePippin
 tags: [ Pentagona, HMW DNA, BluePippin, Size Selection ]
 ---
 
-# Using the [BluePippin](http://www.sagescience.com/products/bluepippin/) [High Pass Plus Cassette,  >15 kb  DNA size collections](http://store.sagescience.com/s.nl/it.A/id.2093/.f) to further refine our [HMW _Pentagona_ DNA](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-10-31/Zymo-HMW-Pent) to above 15,000bp fragments only
+# Using the [BluePippin](http://www.sagescience.com/products/bluepippin/) [High Pass Plus Cassette,  >15 kb  DNA size collections](http://store.sagescience.com/s.nl/it.A/id.2093/.f) to further refine our [HMW _pentagona_ DNA](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-10-31/Zymo-HMW-Pent) to above 15,000bp fragments only
 
 ### Sample Prep
 11/1/19
@@ -26,7 +26,7 @@ tags: [ Pentagona, HMW DNA, BluePippin, Size Selection ]
   - Unclicked range and set reference to off for lanes 2 and 1
   - Set start as 15,000bp and end as 150,000bp so the target was 82,500bp for lanes 5 and 3
   - Saved protocol as MES_15kb_HighPass
-- Brought p20, cassette, tips, solutons, and samples up to the GSC
+- Brought p20, cassette, tips, solutions, and samples up to the GSC
 - Calibrated the optics feature
 - Unwrapped cassette and looked for problems with the gel: none
 - Tipped cassette vertically with elution wells at the top and tapped it to let bubbles release to the top
