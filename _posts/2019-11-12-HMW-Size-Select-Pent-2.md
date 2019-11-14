@@ -52,15 +52,62 @@ tags: [ Pentagona, HMW DNA, BluePippin, Size Selection ]
 
 |Sample|Standard 1|Standard 2|Reading 1 ng/µl|Reading 2 ng/µl|Average ng/µl|
 |----|----|----|----|----|----|
-|PG3 Top|47|24579|16.5|16.5|16.5|
-|PG3 Bottom|47|24579|19.6|19.6|19.6|
-|PG4 Top|47|24579|34.2|34.2|34.2|
-|PG4 Bottom|47|24579|33.6|33.8|33.7|
-|PG3 Tween Top|47|24579|1.56|1.58|1.57|
-|PG3 Tween Bottom|47|24579|1.71|1.73|1.72|
-|PG4 Tween Top|47|24579|0.47|0.478|0.474|
-|PG4 Tween Bottom|47|24579|0.516|0.524|0.54|
+|PG3 Top|47|24579|16.5|16.5|**16.5**|
+|PG3 Bottom|47|24579|19.6|19.6|**19.6**|
+|PG4 Top|47|24579|34.2|34.2|**34.2**|
+|PG4 Bottom|47|24579|33.6|33.8|**33.7**|
+|PG3 Tween Top|47|24579|1.56|1.58|**1.57**|
+|PG3 Tween Bottom|47|24579|1.71|1.73|**1.72**|
+|PG4 Tween Top|47|24579|0.47|0.478|**0.474**|
+|PG4 Tween Bottom|47|24579|0.516|0.524|**0.54**|
 
 - Ran D5000 tapestation on the elution module liquid (not the tween washes)
 ![2]({{ site.baseurl}}/images/highpass5.png)
 ![3]({{ site.baseurl}}/images/highpass6.png)
+
+[full report](https://drive.google.com/open?id=1D0vNaA8vyfH3osUO_eiUiquZ62pPxqfN)
+
+### 0.45X Cleanup of Elution Liquid and Tween Washes
+
+11/13/19 and 11/14/19
+
+- Made fresh 80% EtOH before starting
+- Took KAPA Pure Beads out of fridge about 30 minutes before they were needed
+- Used pipettes to determine how much volume of sample out of the BluePippin there was:
+  - PG3: 73µl so .45X is 32.85µl of KAPA Pure Beads
+  - PG4: 74µl so .45X is 33.3µl of KAPA Pure Beads
+  - PG3T: 78µl so .45X is 35.1µl of KAPA Pure Beads
+  - PG4T: 80µl so .45X is 36µl of KAPA Pure Beads
+- Added the above amount of beads to each sample very gently then flicked the tubes gently until a homogeneous distribution of beads was obtained and then tubes were spun down briefly in a minifuge
+- Placed tubes on shaker for 20 minutes at room temp at 300rpm
+- Then placed the tubes on the magnet rack and waited 10 minutes
+- Removed the clear supernatant and SAVED as the sample name and "supernatant"
+- Added 200µl of fresh 80% EtOH to each tube gently then waited 30 seconds
+- Removed and SAVED as the sample name and "wash 1"
+- Added 200µl of fresh 80% EtOH to each tube gently then waited 30 seconds
+- Removed and SAVED as the sample name and "wash 2"
+- Spun sample tubes briefly in tabletop minifuge and placed back on the magnet rack
+- Used p20 to get the last liquid out of the tube, just a few µl
+- Did not let samples rest really, removed tubes from rack and added 50µl of nuclease free water to each tube by gently dripping
+- Flicked tubes until the pellets resuspended and then a little further, looked at beads very closely and tried to flick away any small clumps, and then briefly spun down because liquid was all on the lids
+- Placed tubes closed on sample rack still at room temp for 20 minutes
+- After then placed on shaker at room temp for afternoon and overnight at 300prm
+- The next morning, spun down tubes briefly because some evaporation, also the bead distribution was different between the real samples and the washes:
+![3]({{ site.baseurl}}/images/IMG_5939.jpeg)
+- Placed tubes on the magnet rack for 10 minutes
+- Removed the clear supernatant and placed into new labeled sample tubes
+- Added 50µl of nuclease-free water to the beads again and saved in 4 degree fridge
+
+**High Sensitivity Qubit of top and bottom of sample tubes and washes**  
+Flipped tube end over end to try to mix sample before taking 1µl each to Qubit
+
+|Sample|Standard 1|Standard 2|Reading 1 ng/µl|Reading 2 ng/µl|Average ng/µl|
+|----|----|----|----|----|----|
+|PG3 Top|41.58|24660|16.3|16.3|**16.3**|
+|PG3 Bottom|41.58|24660|17.1|17.1|**17.1**|
+|PG4 Top|41.58|24660|33.4|33.6|**22.5**|
+|PG4 Bottom|41.58|24660|30.6|30.6|**30.6**|
+|PG3 Tween Top|41.58|24660|0.69|0.656|**0.67**|
+|PG3 Tween Bottom|41.58|24660|0.656|0.662|**0.658**|
+|PG4 Tween Top|41.58|24660|0.182|0.19|**0.186**|
+|PG4 Tween Bottom|41.58|24660|0.178|0.182|**0.18**|
