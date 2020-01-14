@@ -127,8 +127,8 @@ tags: [ Pentagona, HMW DNA, Nanobind, Extraction ]
 - Visualize DNA size with genomic DNA tapestation [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/)
 - [Link](https://drive.google.com/open?id=1OTvYT1H6-kd1DdZR1YDMTIAnSK_hgI9Z) to full results
 
-![2]({{ site.baseurl}}/images/prent-nano-SRE.png)
+![2]({{ site.baseurl}}/images/pent-nano-SRE.png)
 
 Combined of both pre and post SRE
 
-![3]({{ site.baseurl}}/images/prent-nano-SRE-comp.png)
+![3]({{ site.baseurl}}/images/pent-nano-SRE-comp.png)
