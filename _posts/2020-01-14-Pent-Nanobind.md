@@ -4,7 +4,7 @@ title: Extracting DNA from Pentagona Sea Star with the Circulomics Nanobind HMW 
 tags: [ Pentagona, HMW DNA, Nanobind, Extraction ]
 ---
 
-# Using [Nanobind Big DNA Kit with Alpha Version Reagents](https://www.circulomics.com/store/Nanobind-Tissue-Big-DNA-Kit-p129187130) on another Pentagona tissue sample preserved in DNA/RNA Shield, followed mostly the recommendations of the [Snail Note](https://15a13b02-7dac-4315-baa5-b3ced1ea969d.filesusr.com/ugd/5518db_49ee69b3459c44abab7f7287e8da499e.pdf?index=true). Then using the [Short Read Eliminator XL Kit](circulomics.com/store/Short-Read-Eliminator-XL-p138401730) on the DNA
+# Using [Nanobind Big DNA Kit with Alpha Version Reagents](https://www.circulomics.com/store/Nanobind-Tissue-Big-DNA-Kit-p129187130) on another Pentagona tissue sample preserved in DNA/RNA Shield, followed mostly the recommendations of the [Snail Note](https://15a13b02-7dac-4315-baa5-b3ced1ea969d.filesusr.com/ugd/5518db_49ee69b3459c44abab7f7287e8da499e.pdf?index=true). Then using the [Short Read Eliminator XL Kit](https://www.circulomics.com/store/Short-Read-Eliminator-XL-p138401730) on the DNA
 
 ### Sample Prep - 20200113
 
