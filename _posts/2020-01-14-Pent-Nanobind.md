@@ -11,7 +11,7 @@ tags: [ Pentagona, HMW DNA, Nanobind, Extraction ]
 - Placed dounce homogenizer, buffer CIB (same as CT), and one tube of P6 sample on ice
 - While waiting for sample to thaw set the centrifuge for 4 degrees C and let run for 7 minutes to bring the temp down
 - Cut two pieces of foil and sterilized forceps, got a scalpel and new blade
-- Took tissue piece out of tube when thawed and cut in half on one foil sheet, minced one half with scalpel blade as much as obvious ossicles out allow
+- Took tissue piece out of tube when thawed and cut in half on one foil sheet, minced one half with scalpel blade as much as obvious ossicles would allow
 - Rest of tissue was returned to sample tube and placed back in -20 freezer
 - Weighed fresh foil sheet empty and with minced tissue piece:
   - Before: 0.2598g
