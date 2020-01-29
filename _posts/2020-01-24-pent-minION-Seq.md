@@ -142,7 +142,7 @@ Similar plot, shows the result of the mux scan (multiplex scan) that determines 
 
 Histogram of read counts over the whole sequencing run. Obviously skewed to smaller reads
 
-![4]({{ site.baseurl}}/images/read-counts.png)
+![4]({{ site.baseurl}}/images/read-count.png)
 
 Histogram of read lengths over the whole sequencing run, using total estimated bases instead of counts as the y axis. This allows for the fact that longer reads contain more information than smaller reads to be taken into account in your estimation of how well the sequencing is going. 100 reads of 5kb length is less information than 20 reads of 30kb length. We got an N50 of 18.23kb!
 
@@ -151,7 +151,7 @@ Histogram of read lengths over the whole sequencing run, using total estimated b
 Plot of the translocation speed, or number of bases that go through the pores in 1 second, over the whole sequencing run. You want it to stay in that green range
 
 
-[6]({{ site.baseurl}}/images/translocation.png)
+[6]({{ site.baseurl}}/images/translocation-speed.png)
 
 Final cumulative output plot: WOW! You can clearly see when sequencing effort plateaus, and how it picks back up again exponentially with each wash. And so many reads!
 
