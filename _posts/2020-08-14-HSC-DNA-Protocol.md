@@ -65,7 +65,7 @@ Don't let the "spout" of the spin column touch anything, keep resting inside col
 45. Place spin columns back in their same collection tubes
 46. Add 200ul of g-DNA Wash Buffer to each spin column
 47. Centrifuge spin columns at 1300 rcf for 1 min
-48. Write final tubes for each sample: each sample gets a 1.5mL tube with the sample number on the top, and on the side the sample number, "horseshoe crab", DNA, today's date, and your initials (plus nay other information you want)
+48. Write final tubes for each sample: each sample gets a 1.5mL tube with the sample number on the top, and on the side the sample number, "horseshoe crab", DNA, today's date, and your initials (plus any other information you want)
 49. Transferr spin columns to opened new final tubes
 50. Pour off last waste and discard collection tube in non-hazardous tip waste bucket
 51. Take warmed 10mM Tris HCl out of the Thermomixer
