@@ -73,7 +73,7 @@ Don't let the "spout" of the spin column touch anything, keep resting inside col
 53. Let the tubes incubate with the liquid for 5 minutes
 54. Place the tubes in the centrifuge, place the lids either facing the center or nestled in the empty holes to the right
 55. Centrifuge the tubes at maximum speed for 1 minute
-56. Take tubes out and repeat steps 52-55
+56. Take tubes out and repeat steps 51-55
 57. Take out spin columns and discard in the non-hazardous tip waste buckets and place tubes on the ice-bead bucket
 58. Set up strip-tubes with the sample number (enough for each sample)
 59. Aliquot 8ul of each sample into their respective 8-strip tube for use in quantity and quality measures
