@@ -57,7 +57,7 @@ tags: [ RNA, sea star ]
 Tube 3 after 1st spin, still foggy but a lot of beads present
 ![6]({{ site.baseurl}}/images/CPAB002-3.jpeg)  
 Even already clear tube 6 had beads
-![7]({{ site.baseurl}}/images/BEADTUBES.jpeg)
+![7]({{ site.baseurl}}/images/CHAB005-6.jpeg)
 
 ### Extraction
 
