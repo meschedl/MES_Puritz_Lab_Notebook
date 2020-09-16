@@ -48,24 +48,24 @@ Don't let the "spout" of the spin column touch anything, keep resting inside col
 27. Add equal volume (450ul) of Genomic Binding Buffer to each sample tube
 28. Vortex sample tubes for 5 seconds and spin down on the minifuge
 29. Add 700ul of each sample to their labeled yellow spin column
-30. Centrifuge spin columns at 1300 rcf for 1 min (remember to balance centrifuge)
+30. Centrifuge spin columns at 13000 rcf for 1 min (remember to balance centrifuge)
 31. Pour off flow through (liquid now in the collection tube) in the liquid waste beaker
 32. Place spin columns back in their same collection tubes
 33. Add the remaining liquid from each sample to their labeled yellow spin columns
-34. Centrifuge spin columns at 1300 rcf for 1 min
+34. Centrifuge spin columns at 13000 rcf for 1 min
 35. Pour off flow through in the liquid waste beaker
 36. Transfer spin columns to new collection tubes and discard the old ones in non-hazardous tip waste buckets
 37. Add 400ul of DNA Pre-Wash buffer to each spin column
-38. Centrifuge spin columns at 1300 rcf for 1 min
+38. Centrifuge spin columns at 13000 rcf for 1 min
 39. Pour off flow through in the liquid waste beaker
 40. Place spin columns back in their same collection tubes
 41. Add 700ul of g-DNA Wash Buffer to each spin column
-42. Centrifuge spin columns at 1300 rcf for 1 min
+42. Centrifuge spin columns at 13000 rcf for 1 min
 43. Pour off flow through in the liquid waste beaker
 45. Place spin columns back in their same collection tubes
 46. Add 200ul of g-DNA Wash Buffer to each spin column
-47. Centrifuge spin columns at 1300 rcf for 1 min
-48. Write final tubes for each sample: each sample gets a 1.5mL tube with the sample number on the top, and on the side the sample number, "horseshoe crab", DNA, today's date, and your initials (plus nay other information you want)
+47. Centrifuge spin columns at 13000 rcf for 1 min
+48. Write final tubes for each sample: each sample gets a 1.5mL tube with the sample number on the top, and on the side the sample number, "horseshoe crab", DNA, today's date, and your initials (plus any other information you want)
 49. Transferr spin columns to opened new final tubes
 50. Pour off last waste and discard collection tube in non-hazardous tip waste bucket
 51. Take warmed 10mM Tris HCl out of the Thermomixer
@@ -73,7 +73,7 @@ Don't let the "spout" of the spin column touch anything, keep resting inside col
 53. Let the tubes incubate with the liquid for 5 minutes
 54. Place the tubes in the centrifuge, place the lids either facing the center or nestled in the empty holes to the right
 55. Centrifuge the tubes at maximum speed for 1 minute
-56. Take tubes out and repeat steps 52-55
+56. Take tubes out and repeat the previous 5 steps once more for a final volume of 100ul in the tube
 57. Take out spin columns and discard in the non-hazardous tip waste buckets and place tubes on the ice-bead bucket
 58. Set up strip-tubes with the sample number (enough for each sample)
 59. Aliquot 8ul of each sample into their respective 8-strip tube for use in quantity and quality measures
