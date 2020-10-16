@@ -161,7 +161,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 #### 1% Agarose Gel for DNA Quality
 
 - Followed [gel protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Agrose-Gel-Protocol.md)
-![10]({{ site.baseurl}}/images/gel20201015.jpeg "10")
+![10]({{ site.baseurl}}/images/gel20201015.jpg "10")
 
 #### RNA TapeStation
 
