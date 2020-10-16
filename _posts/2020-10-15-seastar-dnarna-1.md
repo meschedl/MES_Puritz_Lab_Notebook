@@ -29,7 +29,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Made 1 bead tube per sample with 700ul of DNA/RNA shield in each
 - Cut each tissue piece in half and placed in the bead tube
 - CPAB-003
-![1]({{ site.baseurl}}/images/CBAB-003.jpeg "1")
+![1]({{ site.baseurl}}/images/CPAB-003.jpeg "1")
 - CHSB-005
 ![2]({{ site.baseurl}}/images/CHSB-005.jpeg "2")
 - CPBO-008
@@ -173,4 +173,4 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 
 - Quality of DNA and RNA is good but yield is LOW especially of the RNA
 - I think the homogenization was not efficient and also the small sample pieces need the most efficient
-- Next extraction I will try to chop the pieces before homogenization and maybe add incubation too 
+- Next extraction I will try to chop the pieces before homogenization and maybe add incubation too
