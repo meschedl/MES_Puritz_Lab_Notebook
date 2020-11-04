@@ -47,8 +47,8 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 ![3]({{ site.baseurl}}/images/CPOI-004-3.jpeg "3")
 ![4]({{ site.baseurl}}/images/CPOI-004-4.jpeg "4")
 - CHSY-001 before and after 30 seconds of dremel homogenization at 5 speed:
-![5]({{ site.baseurl}}/images/CHSY-001-1.jpeg "5")
-![6]({{ site.baseurl}}/images/CHSY-001-2.jpeg "6")
+![5]({{ site.baseurl}}/images/CHSY-001-3.jpeg "5")
+![6]({{ site.baseurl}}/images/CHSY-001-4.jpeg "6")
 - Added 30ul prok digestion buffer and 15ul proK
 - Vortexed and spun down tubes
 - Incubated tubes at 55 degrees C for 30 minutes shaking at 500rpm in the thermomixer
@@ -57,7 +57,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Centrifuged tubes for 2 minutes at maximum speed to pellet debris
 - Pipetted ~320ul of supernatant into new 1.5mL tubes
 - Interestingly, here not all the tissue had pelleted, some was floating, I centrifuged the 2 samples again for 2 min at max speed but it did not help. I have never seen that before:
-![6]({{ site.baseurl}}/images/20201102-1.jpeg "6")
+![6]({{ site.baseurl}}/images/20201102-2.jpeg "6")
 
 ### DNA Extraction
 
