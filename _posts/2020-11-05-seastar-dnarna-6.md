@@ -10,7 +10,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 ### Notes
 
 - Using the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit)
-- Used Dremel with drill bit head for 2 seconds at lowest power setting (5) on the first two samples
+- Used Dremel with drill bit head for 20 seconds at lowest power setting (5) on the first two samples
 - Used 1.4mm ceramic beads and the tissuelyser for 2 minutes at 25Hz for the second two samples
 - No incubation, no proteinase K
 
