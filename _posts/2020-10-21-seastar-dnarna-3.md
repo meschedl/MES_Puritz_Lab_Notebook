@@ -147,6 +147,12 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 |CHSY-002|too low|-|-|
 
 
+### 1% Agarose Gel
+
+- My 3 samples were added in at the end of someone else's gel
+- Gel was 1% and run at 100V for 1 hour
+![13]({{ site.baseurl}}/images/gel20201021.jpg "13")
+
 #### RNA TapeStation
 
 - Followed [RNA tapestation protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
