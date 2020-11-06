@@ -149,7 +149,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 
 ### 1% Agarose Gel
 
-- My 3 samples were added in at the end of someone else's gel
+- My 3 samples were added in at the end of someone else's gel due to lots of people wanting to run gels that day
 - Gel was 1% and run at 100V for 1 hour
 ![13]({{ site.baseurl}}/images/gel20201021.jpg "13")
 
