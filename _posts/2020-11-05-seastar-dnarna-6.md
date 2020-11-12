@@ -52,7 +52,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Centrifuged the dremel-homogenized tubes in the centrifuge at max speed for 2 min to pellet debris
 - Still some floating debris in the dremel-tubes after centrifugation, like the previous dremel extraction:
 ![10]({{ site.baseurl}}/images/FLOATING.jpeg "10")
-- Avoided all debris and pipetted supernatnat from each tube into each a new 1.5mL tube
+- Avoided all debris and pipetted supernatant from each tube into each a new 1.5mL tube
 - Added equal volume DNA/RNA lysis buffer to each tube (300ul for dremel tubes, 450ul for tissue lyser tubes)
 
 ### DNA Extraction
