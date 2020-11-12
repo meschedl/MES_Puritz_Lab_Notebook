@@ -160,4 +160,4 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 #### RNA TapeStation
 
 - Followed [RNA tapestation protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
-- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-11-12%20-%2011.35.22.pdf
+- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-11-12%20-%2011.35.22.pdf)
