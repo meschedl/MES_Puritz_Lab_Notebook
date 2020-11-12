@@ -31,7 +31,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 ![3]({{ site.baseurl}}/images/CPAB-001-1.jpeg "3")
 ![4]({{ site.baseurl}}/images/CPAB-001-2.jpeg "4")
 - CHSB-004 tissue piece and minced piece
-![5]({{ site.baseurl}}/images/CHSB-004.jpeg "5")
+![5]({{ site.baseurl}}/images/CHSB-004-1.jpeg "5")
 ![6]({{ site.baseurl}}/images/CHSB-004-2.jpeg "6")
 - Bead tubes before tissuelyser homogenization:
 ![7]({{ site.baseurl}}/images/20201112-pre-TL.jpeg "7")
