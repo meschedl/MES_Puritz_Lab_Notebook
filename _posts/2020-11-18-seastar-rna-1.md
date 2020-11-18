@@ -1,65 +1,53 @@
 ---
 layout: post
-title: Troubleshooting DNA/RNA Extraction of Pentagona and Hystera Sea Stars 6
+title: RNA Extraction of Pentagona and Hystera Sea Stars, 6 Samples
 tags: [ RNA, DNA, Pentagona, Hystera, ]
 ---
 
-# DNA/RNA Extractions on 3 Sea Star Tissue Samples Stored in DNA/RNA Shield, 2 Pentagona and 1 Hystera, Using the Tissuelyser for 1 Minute at 15Hz and Incubating at Room Temperature for 15 Minutes
-
+# RNA Extractions of 3 Hystera and 3 Pentagona With the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit)
 
 ### Notes
 
 - Using the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit)
-- Used 1.4mm ceramic beads and the tissuelyser for 1 minute at 15Hz, stopped at 30 seconds and moved the tubes to the other side of the sample holder in the lyser.
+- Used 1.4mm ceramic beads and the tissuelyser for 2 minutes at 25Hz, stopped at 30 seconds and moved the tubes to the other side of the sample holder in the lyser.
 - Incubated at room temp with the proteinase K for 15 minutes shaking at 550rpm
+
 
 ## Sample Preparation
 
 - Samples:
-  - CPBP-008
-  - CPAB-001
-  - CHSB-004
+  - CHSB-002
+  - CHSB-003
+  - CHSY-003
+  - CPAB2-005
+  - CPAB2-009
+  - CPOI-008
 - Thawed samples on ice bucket
 - Prepared forceps, foil, and razor blades
 - Cleaned forceps with 10% bleach, DI water, 70% ethanol, and RNaseZap before and between each sample
-- Made 1 ceramic bead tube with 800ul DNA/RNA shield for each tissuelyser sample (as per the updated kit recomendations)
+- Made 1 ceramic bead tube with 800ul DNA/RNA shield for each tissuelyser sample
 - Cut a small piece of tissue for each sample then minced with the razor blade until it was flat and could come apart a little bit and placed in their respective bead homogenization tube
-- CPBP-008 tissue piece and minced piece
-![1]({{ site.baseurl}}/images/CPBP-008-1.1.jpeg "1")
-![2]({{ site.baseurl}}/images/CPBP-008-2.1.jpeg "2")
-- CPAB-001 tissue piece and minced piece
-![3]({{ site.baseurl}}/images/CPAB-001-1.jpeg "3")
-![4]({{ site.baseurl}}/images/CPAB-001-2.jpeg "4")
-- CHSB-004 tissue piece and minced piece
-![5]({{ site.baseurl}}/images/CHSB-004-1.jpeg "5")
-![6]({{ site.baseurl}}/images/CHSB-004-2.jpeg "6")
-- Bead tubes before tissuelyser homogenization:
-![7]({{ site.baseurl}}/images/20201112-pre-TL.jpeg "7")
-- Put bead tubes in the tissuelyser for 30 seconds at 15Hz
-- Orientation of bead tubes in holders:
-![8]({{ site.baseurl}}/images/20201112-TL1.jpeg "8")
-- After 30 seconds, changed orientation of bead tubes in holders:
-![9]({{ site.baseurl}}/images/20201112-TL2.jpeg "9")
-![10]({{ site.baseurl}}/images/20201112-TL3.jpeg "10")
-- Ran the tissuelyser again for 30 seconds at 15Hz
+- Ran the tissuelyser for 2 minutes at 25Hz
 - Spun down the bead tubes in the minifuge to remove bubbles
-- After homogenization:
-![11]({{ site.baseurl}}/images/20201112-post-TL.jpeg "11")
 - Added 80ul proteinase K digestion buffer and 40ul proteinase K to each bead tube
 - Briefly vortexed and spun down sample tubes
-- Placed in the thermomixer for 10 minutes shaking at 550rpm at 22 degrees C temp (room temp)
-- At 10 minutes checked on the status of the tissue:
-![12]({{ site.baseurl}}/images/20201112-10min.jpeg "12")
-- Saw still some tissue so decided to go to 15 minutes
-- Status of tissue at 15 minutes:
-![13]({{ site.baseurl}}/images/20201112-15min.jpeg "13")
-- Tissue looked pretty broken down, hard to tell if it was just in between the beads
-- Removed all the supernatant (~830ul) into new 1.5mL tubes
+- Placed in the thermomixer for 15 minutes shaking at 550rpm at 23 degrees C temp (room temp)
+- After homogenization and incubation CHSB-002:
+![1]({{ site.baseurl}}/images/CHSB-002.jpeg "1")
+- CHSB-003
+![1]({{ site.baseurl}}/images/CHSB-003.jpeg "1")
+- CHSY-003
+![1]({{ site.baseurl}}/images/CHSY-003.jpeg "1")
+- CPAB2-005
+![1]({{ site.baseurl}}/images/CPAB2-005.jpeg "1")
+- CPAB2-009
+![1]({{ site.baseurl}}/images/CPAB2-009.jpeg "1")
+- CPOI-008
+![1]({{ site.baseurl}}/images/CPOI-008.jpeg "1")
+- Removed all the supernatant (~800ul) into new 1.5mL tubes
 - Centrifuged tubes for 1 minute at 16,00rcf
-- Noticed pellet after centrifugation:
-![14]({{ site.baseurl}}/images/20201112-pellet.jpeg "14")
-- Removed liquid (~830ul) into new 5mL tubes
-- Added equal volume (830ul) DNA/RNA lysis buffer to the 5mL tubes
+- Removed liquid (~800ul) into new 1.5mL tubes avoiding small pellet
+- Added equal volume (800ul) DNA/RNA lysis buffer to the 5mL tubes
 - Vortexed and spun down tubes
 
 ### DNA Extraction
@@ -92,7 +80,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 
 ### RNA Extraction
 
-- Added equal volume (1660ul) 100% ethanol to the 5mL tubes of flowthrough
+- Added equal volume (1600ul) 100% ethanol to the 5mL tubes of flowthrough
 - Vortexed and spun down
 - Added 700ul of the liquid to green spin columns and collection tubes
 - Centrifuged 16,000rcf for 30 seconds
@@ -102,8 +90,8 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Centrifuged 16,000rcf for 30 seconds
 - Discarded flow through (Zymo kit waste)
 - Created the DNase mix:
-  - 75ul DNA digestion buffer * 3 = 225ul
-  - 5ul DNase I * 3 = 15ul
+  - 75ul DNA digestion buffer * 6 = 450ul
+  - 5ul DNase I * 6 = 30ul
 - Flicked and spun down mix
 - Added 80ul DNAse mix to each green spin column filter
 - Incubated for 15 minutes at room temp
@@ -136,28 +124,35 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 
 |Sample|Reading 1 (ng/ul)|Reading 2 (ng/ul)|Average DNA (ng/ul)|
 |---|---|---|---|
-|Standard 1|199 RFU|-|-|
-|Standard 2|21978 RFU|-|-|
-|CPBP-008|28.4|28|28.2|
-|CPAB-001|26.6|26.4|26.5|
-|CHSB-004|13.3|13.1|13.2|
+|Standard 1|187 RFU|-|-|
+|Standard 2|20207 RFU|-|-|
+|CHSB-002|45.8|45.6|45.5|
+|CHSB-003|22.8|22.6|22.5|
+|CHSY-003|34.6|34.2|34.4|
+|CPAB2-005|21.6|21.6|21.6|
+|CPAB2-009|26|25.4|25.7|
+|CPOI-008|37|36.6|36.8|
 
 - RNA
 
 |Sample|Reading 1 (ng/ul)|Reading 2 (ng/ul)|Average RNA (ng/ul)|
 |---|---|---|---|
-|Standard 1|404 RFU|-|-|
-|Standard 2|8406 RFU|-|-|
-|CPBP-008|too low|-|-|
-|CPAB-001|11|10.8|10.9|
-|CHSB-004|too low|-|-|
+|Standard 1|389 RFU|-|-|
+|Standard 2|8413 RFU|-|-|
+|CHSB-002|19.2|19|19.1|
+|CHSB-003|11|10.8|10.9|
+|CHSY-003|11|10.8|10.9|
+|CPAB2-005|too low|-|-|
+|CPAB2-009|too low|-|-|
+|CPOI-008|12|11.4|11.7|
 
 #### 1% Agarose Gel for DNA Quality
 
 - Followed [gel protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Agrose-Gel-Protocol.md)
-![10]({{ site.baseurl}}/images/gel20201112.jpg "10")
+![1]({{ site.baseurl}}/images/20201118gel.jpg "1")
 
 #### RNA TapeStation
 
 - Followed [RNA tapestation protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
-- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-11-12%20-%2011.35.22.pdf)
+- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-11-18%20-%2015.30.56.pdf)
+- I ended up tapestationing all the samples because I thought there was some RNA  in the CPAB2 samples, it could just be too low for the Qubit to read. Turns out I was right. I also looked up the [broad range RNA qubit guide](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FQubit_RNA_BR_Assay_UG.pdf&title=VXNlciBHdWlkZTogUXViaXQgUk5BIEJSIEFzc2F5IEtpdHM=) and it's not supposed to quantify below 20ng (and because we add 1ul, that's 20ng/ul). So my guess is that it doesn't read below 10ng/ul.
