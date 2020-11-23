@@ -6,7 +6,7 @@ tags: [ DNA, Pentagona, Hystera, ]
 
 # DNA Extractions of 3 Hystera and Pentagona With the [Zymo Research Quick-DNA Miniprep Plus Kit](https://www.zymoresearch.com/collections/quick-dna-kits/products/quick-dna-miniprep-plus-kit)
 
-**Notes: followed kit recommendations for samples stored in DNA/RNA Shield and used and intermediate incubation time of 2 hours
+**Notes: followed kit recommendations for samples stored in DNA/RNA Shield and used and intermediate incubation time of 2 hours**
 
 ## Sample Preparation and Digestion
 
