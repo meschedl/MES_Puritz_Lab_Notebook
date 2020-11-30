@@ -109,7 +109,7 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Added 50ul room temp nuclease free water to the spin columns gently by dripping over the filter
 - Incubated at room temp for 5 minutes
 - Centrifuged 16,000rcf for 30 seconds
-- Added another 50ul room temp nuclease free water to the spin columns gently by dripping over the filter
+- Added 30ul room temp nuclease free water to the spin columns gently by dripping over the filter
 - Incubated at room temp for 5 minutes
 - Centrifuged 16,000rcf for 30 seconds
 - Discarded the spin columns
