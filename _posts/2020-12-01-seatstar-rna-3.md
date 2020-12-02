@@ -1,26 +1,22 @@
 ---
 layout: post
-title: 2nd RNA Extraction of Pentagona and Hystera Sea Stars, 7 Samples
+title: 3rd RNA Extraction of Pentagona and Hystera Sea Stars, 2 Samples
 tags: [ RNA, DNA, Pentagona, Hystera, ]
 ---
 
-# RNA Extractions of 7 Pentagona With the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit)
+# RNA Extractions of 2 Pentagona With the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit), doing 2 CPAB2 Samples Because They Have Been So Tough to Get Enough RNA
 
 ### Notes
 
 - Using the [Zymo DNA/RNA Miniprep Plus kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit)
 - Used 1.4mm ceramic beads and the tissuelyser for 2 minutes at 25Hz, stopped at 30 seconds and moved the tubes to the other side of the sample holder in the lyser.
 - Incubated at room temp with the proteinase K for 15 minutes shaking at 550rpm
+
 ## Sample Preparation
 
 - Samples:
-  - CPAB2 003
-  - CPAB2 008
-  - CPDB 002
-  - CPDB 009
-  - CPAB 005
-  - CPBO 002
-  - CPBO 006
+  - CPAB2 010
+  - CPAB2 005
 - Thawed samples on ice bucket
 - Prepared forceps, foil, and razor blades
 - Cleaned forceps with 10% bleach, DI water, 70% ethanol, and RNaseZap before and between each sample
@@ -31,20 +27,10 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Added 70ul proteinase K digestion buffer and 35ul proteinase K to each bead tube
 - Briefly vortexed and spun down sample tubes
 - Placed in the thermomixer for 15 minutes shaking at 550rpm at 23 degrees C temp (room temp)
-- After homogenization and incubation CPAB2 003:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPAB2 008:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPDB 002:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPDB 009:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPAB 005:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPBO 002:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
-- After homogenization and incubation CPBO 006:
-![1]({{ site.baseurl}}/images/20201124-1.jpeg "1")
+- After homogenization and incubation CPAB2 010:
+![1]({{ site.baseurl}}/images/20201201-2.png "1")
+- After homogenization and incubation CPAB2 005:
+![1]({{ site.baseurl}}/images/20201201-1.png "1")
 - Removed all the supernatant (~725ul) into new 1.5mL tubes
 - Centrifuged tubes for 1 minute at 16,00rcf
 - Removed liquid (~725ul) into new 1.5mL tubes avoiding small pellet
@@ -91,8 +77,8 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Centrifuged 16,000rcf for 30 seconds
 - Discarded flow through (Zymo kit waste)
 - Created the DNase mix:
-  - 75ul DNA digestion buffer * 7 = 525ul
-  - 5ul DNase I * 7 = 35ul
+  - 75ul DNA digestion buffer * 2 = 150ul
+  - 5ul DNase I * 2 = 10ul
 - Flicked and spun down mix
 - Added 80ul DNAse mix to each green spin column filter
 - Incubated for 15 minutes at room temp
@@ -106,10 +92,10 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Centrifuged 16,000rcf for **2 minutes**
 - Transferred spin columns to new 1.5mL tubes for each sample labeled as final RNA tubes
 - Discarded flow through and collection tubes
-- Added 50ul room temp nuclease free water to the spin columns gently by dripping over the filter
+- Added 40ul room temp nuclease free water to the spin columns gently by dripping over the filter
 - Incubated at room temp for 5 minutes
 - Centrifuged 16,000rcf for 30 seconds
-- Added 30ul room temp nuclease free water to the spin columns gently by dripping over the filter
+- Added 40ul room temp nuclease free water to the spin columns gently by dripping over the filter
 - Incubated at room temp for 5 minutes
 - Centrifuged 16,000rcf for 30 seconds
 - Discarded the spin columns
@@ -125,35 +111,35 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 
 |Sample|Reading 1 (ng/ul)|Reading 2 (ng/ul)|Average DNA (ng/ul)|
 |---|---|---|---|
-|Standard 1|187 RFU|-|-|
-|Standard 2|21525 RFU|-|-|
-|CPAB2 003|32.6|32.4|32.5|
-|CPAB2 008|39.8|39.8|39.8|
-|CPDB 002|61.8|61.4|61.6|
-|CPDB 009|48.8|48.6|48.7|
-|CPAB 005|70|68.8|69.4|
-|CPBO 002|25|24.8|24.9|
-|CPBO 006|51.4|51.2|51.3|
+|Standard 1|183 RFU|-|-|
+|Standard 2|20062 RFU|-|-|
+|CPAB2 010|25.4|25.2|25.3|
+|CPAB2 005|15.3|15.1|15.2|
 
 - RNA
 
 |Sample|Reading 1 (ng/ul)|Reading 2 (ng/ul)|Average RNA (ng/ul)|
 |---|---|---|---|
-|Standard 1|390 RFU|-|-|
-|Standard 2|8007 RFU|-|-|
-|CPAB2 003|10|10|10|
-|CPAB2 008|too low|-|-|
-|CPDB 002|16.6|16.6|16.6|
-|CPDB 009|12.4|12.4|13.4|
-|CPAB 005|20|20.2|20.1|
-|CPBO 002|10.8|10.6|10.7|
-|CPBO 006|14.6|14.4|14.5|
+|Standard 1|399 RFU|-|-|
+|Standard 2|8555 RFU|-|-|
+|CPAB2 010|too low|-|-|
+|CPAB2 005|too low|-|-|
 
-- Followed [gel protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Agrose-Gel-Protocol.md)
-![1]({{ site.baseurl}}/images/20201124-gel.jpg "1")
+
+**Decided to combine this CPAB2 005 RA extraction and the CPAB2 RNA extraction from [20201118](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2020-11-18/seastar-rna-1) and vacufuge for 40 minute to concentrate and then re-quantify and do the tapestation**
+
+**Second Qubit**
+
+|Sample|Reading 1 (ng/ul)|Reading 2 (ng/ul)|Average RNA (ng/ul)|
+|---|---|---|---|
+|Standard 1|396 RFU|-|-|
+|Standard 2|8378 RFU|-|-|
+|CPAB2 005|13.2|13|13.1|
+
+**Total volume is ~63ul**
 
 #### RNA TapeStation
 
 - Followed [RNA tapestation protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
-- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-11-24%20-%2016.45.47.pdf)
-- I decided not to tapestation CPAB 008 even though there was probably some RNA in there, I didn't want to waste the space on the screentape. I will have to extract one more sample from CPAB2 and then I will have finished with the RNA
+- Kevin ran my 1 sample along with some he had to do: mine is the last sample
+- [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-12-02%20-%2012.04.57.pdf)
