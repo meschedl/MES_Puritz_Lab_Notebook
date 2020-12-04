@@ -143,3 +143,11 @@ tags: [ RNA, DNA, Pentagona, Hystera, ]
 - Followed [RNA tapestation protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
 - Kevin ran my 1 sample along with some he had to do: mine is the last sample
 - [TapeStation Report link](https://github.com/meschedl/MES_Puritz_Lab_Notebook/blob/master/tapetstations/2020-12-02%20-%2012.04.57.pdf)
+
+**DNA Gel**
+
+- Small 1% Agarose Gel ([protocol](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-01/PPP-Lab-Gel-Protocol))
+- [Ladder](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FMAN0013047_GeneRuler_1kb_Plus_DNALadder_250ug_UG.pdf&title=VXNlciBHdWlkZTogR2VuZVJ1bGVyIDEga2IgUGx1cyBETkEgTGFkZGVy)
+- The two samples at the beginning of the second row are the samples from this extraction
+
+[gel]({{ site.baseurl}}/images/20201204-gel.jpg)
