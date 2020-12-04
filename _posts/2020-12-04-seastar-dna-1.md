@@ -82,5 +82,5 @@ tags: [ DNA, Pentagona, Hystera, ]
 
 - Small 1% Agarose Gel ([protocol](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-01/PPP-Lab-Gel-Protocol))
 - [Ladder](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FMAN0013047_GeneRuler_1kb_Plus_DNALadder_250ug_UG.pdf&title=VXNlciBHdWlkZTogR2VuZVJ1bGVyIDEga2IgUGx1cyBETkEgTGFkZGVy)
-- The second row has 2 samples from the previous extraction and 3 samples from Kevin Wong
+- The second row has 2 samples from the previous extraction and 3 samples from Kevin Wong  
 [gel]({{ site.baseurl}}/images/20201204-gel.jpg)
